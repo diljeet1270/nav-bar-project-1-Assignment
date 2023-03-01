@@ -23,3 +23,31 @@
     text-decoration: none;
     color: white;
 }
+.main-div{
+    display: flex;
+    flex-direction: row;
+    margin: 4px;
+}
+.side-bar{
+    background-color: white;
+    margin-right: 12px;
+    width: 300px;
+}
+.side-bar img{
+    background-color: grey;
+    width: 300px;
+    height: 150px
+}
+.side-bar .more-images img{
+    width: 300px;
+    height: 60px;
+}
+.main-content{
+    background-color: white;
+    width: 100%
+}
+.main-content img{
+    background-color: grey;
+    width: 100%;
+    height: 150px;
+}
